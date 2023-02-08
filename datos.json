@@ -1,0 +1,31 @@
+{"nombre":"marcos",
+"apellido":"rivas",
+"lenguajes":["nuevo","cffgfdg","hfghfgh","hgfhfhf"],
+"edad": 30,
+"experiencia":[
+    {
+        "empresa":"microsoft",
+        "antiguedad":5
+    },  {
+        "empresa":"lenovo",
+        "antiguedad":4
+    },  {
+        "empresa":"huawei",
+        "antiguedad":3
+    }] ,
+    "direccion":
+        {
+            "calle":"asd",
+            "numero":"luna",
+            "colonia":"ny",
+            "pago_agua":[
+                {
+                    "id":"1r",
+                    "idf":"1f",
+                    "ffd":"1r",
+                    "idgghg":"h1"
+                }
+            ]
+        }
+    
+}
